@@ -1,6 +1,5 @@
 /****************************************************************
 Copyright 1990 - 1997 by AT&T, Lucent Technologies and Bellcore.
-
 Permission to use, copy, modify, and distribute this software
 and its documentation for any purpose and without fee is hereby
 granted, provided that the above copyright notice appear in all
